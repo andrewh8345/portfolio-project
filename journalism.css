@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+.nav {
+  background-color: aliceblue;
+  overflow: hidden;
+}
+
+.nav a {
+  float: left;
+  color: palevioletred;
+  background-clip: salmon;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+.nav a:hover {
+  background-color: salmon;
+  color:white;
+}
+
+.nav a.active {
+  color: salmon
+}
+
+.link {
+  display:grid;
+  background-color: salmon;
+  padding: 20px;
+   justify-content: center;
+  align-content: center;
+  grid-gap: 5px;
+}
+h1 {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+.link1 {
+  background-size: cover;
+  background-position: center;
+}
+.link2 {
+  background-size: cover;
+  background-position: center;
+}
+.link3 {
+  background-size: cover;
+  background-position: center;
+}
+img{
+ width: 100%;
+  height: auto;
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}

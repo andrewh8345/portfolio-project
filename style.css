@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+body {
+  box-sizing: border-box;
+  min-height: 100%;
+  margin: 20px;
+}
+
+
+.portfolio{
+  display: grid;
+  grid-template-columns: 400px 400px 400px;
+  grid-template-rows:400px 400px 400px;
+  background-color: salmon;
+  padding: 20px;
+  justify-content: center;
+  align-content: center;
+  grid-gap: 5px;
+}
+.pic1{
+  border: 2px solid white;
+  padding: 40px;
+  text-align: center;
+  font-size: 20px;
+background-color: orange;
+grid-column-start: 1;
+grid-column-end: 3;
+background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/af3ee9a4-339f-457d-8407-33858d0a5d50_rw_1200.jpg?h=853d8c5a7a68ac50cbf745ca84b7a60b);
+background-size: cover;
+background-position: bottom;
+}
+h1 {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+.pic2{
+  border: 2px solid white;
+  padding: 40px;
+  text-align: center;
+  font-size: 20px;
+  background-image: url(https://pro2-bar-s3-cdn-cf1.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/2e5a0d06-ff26-4db2-8588-8b76cc84beb4_rw_1920.jpg?h=14bbe613216eda4344707485894fc50d);
+  background-size: cover;
+background-position: center;
+
+}
+.pic3{
+  border: 2px solid white;
+  padding: 40px;
+  text-align: center;
+  font-size: 20px;
+background-image: url(https://pro2-bar-s3-cdn-cf4.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/fb0a2a35-32cf-4602-a43d-07917e9efdd9_rw_1200.jpg?h=b7d0721492129dc39bde5cf26cc76384);
+background-size: cover;
+background-position: center;
+
+}
+.pic4{
+  border: 2px solid white;
+  padding: 40px;
+  text-align: center;
+  font-size: 20px;
+background-color: orange;
+
+     background-image: url(https://pro2-bar-s3-cdn-cf1.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/2f4dfd58-e469-47b4-bae4-fd0034ce1a6e_rw_1920.jpg?h=64f6014592049fc79b0bf30340fb7ea7);
+  background-size: cover;
+background-position: center;
+
+}
+.pic5{
+  border: 2px solid white;
+  padding: 40px;
+  text-align: center;
+  font-size: 20px;
+background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf4.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/f22eb448-0fbb-4ad5-b9d8-7f37a73db4f5_rw_600.jpg?h=ce604c332cabbd718443125bffc09407);
+  background-size: cover;
+background-position: center;
+}
+
+.pic7{
+  border: 2px solid white;
+  padding: 40px;
+  text-align: center;
+  font-size: 20px;
+background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf5.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/6f9f3b1f-0beb-421e-be07-8d58d7f651d0_rw_1920.jpg?h=0070b03c3be580b6723efeece3c5d17d);
+background-size: cover;
+background-position: left;
+grid-column-start: 1;
+grid-column-end: 4;
+
+}
+
+.nav {
+  background-color: aliceblue;
+  overflow: hidden;
+}
+
+.nav a {
+  float: left;
+  color: palevioletred;
+  background-clip: salmon;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+.nav a:hover {
+  background-color: salmon;
+  color:white;
+}
+
+.nav a.active {
+  color: salmon
+}
+
+#footer {
+  float:left;
+  font-family: 'PT Serif', serif;
+}

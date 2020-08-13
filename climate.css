@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+.nav {
+  background-color: aliceblue;
+  overflow: hidden;
+}
+
+.nav a {
+  float: left;
+  color: palevioletred;
+  background-clip: salmon;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+.nav a:hover {
+  background-color: salmon;
+  color:white;
+}
+
+.nav a.active {
+  color: salmon
+}
+
+h1 {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+
+.climateprotest{
+   display: grid;
+   grid-template-columns: 400px 400px 400px;
+  grid-template-rows: 400px 400px 400px;
+  background-color: salmon;
+  padding: 20px;
+   justify-content: center;
+  align-content: center;
+  grid-gap: 5px;
+}
+.pic23 {
+ background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/79675a36-7f2a-4020-a3af-046605b6040b_rw_1920.jpg?h=0c99db2a0bb2ac6c942130cc3578dbc9);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+
+.pic24 {
+ background-image: url(https://pro2-bar-s3-cdn-cf1.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/93e2a927-7a22-450a-8335-9268c6399174_rw_1920.jpg?h=f42a28329922e1ecc9713379b048199e);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic25 {
+ background-image: url(https://pro2-bar-s3-cdn-cf4.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/fb951d01-8b60-4406-ab73-5626a5a1b5c8_rw_600.jpg?h=f7c3e9f86b5034c15c7e3035e21cdf89);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic26 {
+ background-image: url(https://pro2-bar-s3-cdn-cf5.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/687e8105-85ae-4922-81d5-ca19a959c194_rw_1200.jpg?h=a88c4bb3d80eba67a123364f01e3ec4b);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic27 {
+ background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/099d8af0-f5da-404d-900f-b5e4c15138b3_rw_1920.jpg?h=063e6e2b884584f4185c84fa7c551a34);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic28 {
+ background-image: url(https://pro2-bar-s3-cdn-cf1.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/99a9259b-a027-4ce5-9a92-8882dc3a91e4_rw_600.jpg?h=046a8016358883e8dfb216e0213b1a95);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic29 {
+ background-image: url(https://pro2-bar-s3-cdn-cf5.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/631eb56c-25ad-4454-9a15-fa365570151b_rw_600.jpg?h=5ffdf03f069c39dd083f76b4b65fcfd6);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic30 {
+ background-image: url(https://pro2-bar-s3-cdn-cf.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/8770930f-0b1f-420e-b13e-e32d30dc7527_rw_600.jpg?h=d713c543ca1e89292d5a7bca5abb6dff);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic31 {
+ background-image: url(https://pro2-bar-s3-cdn-cf3.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/e7aa3cf8-6bd2-4d9e-bf45-7e7b7cc68a61_rw_600.jpg?h=454a127fffc651a58d5cb9ea44624e17);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}

@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+
+.covid {
+  display: grid;
+   grid-template-columns: 400px 400px 400px;
+  grid-template-rows: 400px 400px 400px;
+  background-color: salmon;
+  padding: 20px;
+   justify-content: center;
+  align-content: center;
+  grid-gap: 5px;
+}
+h2 {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+h1 {
+  text-align:center;
+  font-family: 'PT Serif', serif;
+}
+.pic1 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf5.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/60c3979e-518e-47f5-a4df-34044baada16_rw_600.jpg?h=8fe697446079daf3c4be6ed23249544f);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic2 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/70e3885a-794c-4e4b-bb0c-50b60af4717a_rw_600.jpg?h=4f86e52e2dc1ddfe6987557f938f8ff5);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic3 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/1ae9b9c3-4f9a-49b5-b55b-54ee70ece570_rw_600.jpg?h=2b5991f64da6363166c396bbab922f32);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic4 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/7e53f9bd-072e-400d-ae36-a350fdd6533a_rw_600.jpg?h=5903edec3e80b7922f131ffc2feb29d0);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic5 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/abbd63d7-3625-4b2a-b789-e150487fc087_rw_600.jpg?h=b98bfafea6a7808b38a1029ec5067106);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic6 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf2.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/30218efe-a172-45d7-8b22-359a9fece4c8_rw_600.jpg?h=6c616e3502e8e2ee61767af47ce1f44d);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic7 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf1.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/980d4275-1236-4a68-b6f4-8e1329ea1263_rw_600.jpg?h=fdfa7d8ca03d6d725d4864f32df1ee1d);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic8 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/17fffe84-2ab0-4359-a783-1e7a989381d3_rw_600.jpg?h=e74229f632ab35599690f7b85ca16391);
+background-size: cover;
+background-position: center;
+}
+.pic9 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/a4d31bb9-e95d-4607-ab65-23b81b82abd1_rw_1920.jpg?h=57c98e6ed7daaade580bd41f5a2e1313);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+
+.covidempty {
+  display: grid;
+   grid-template-columns: 400px 400px 400px;
+  grid-template-rows: 400px 400px 400px;
+  background-color: salmon;
+  padding: 20px;
+   justify-content: center;
+  align-content: center;
+  grid-gap: 5px;
+}
+.pic10 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/b4c85d54-e502-4c36-a8cd-c611395efca2_rw_600.jpg?h=179de0571d7fc8a084785d3bfd96b642);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic11 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/786113ec-bd3c-459c-bb63-7878b6a2aeb1_rw_1920.jpg?h=9b5bad430938546019d60fc1a5f45fc8);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic12 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/180289d5-c4e4-4cbb-a7ce-1305f2698fa8_rw_600.jpg?h=ec68c2d6a4213b3f2f9258f5701a2f53);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic13 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/06c1a68c-5c3f-4ade-ba1d-5167a255ba0c_rw_600.jpg?h=45f9bf23dec7b30dd48b603a5299c92b);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic14 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf4.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/f390a625-1001-47e3-8a97-860e119dbc8b_rw_1920.jpg?h=5b4818159344e4e45de56272dc10ca3e);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic15 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf3.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/40992b2c-a1e5-4fd2-8e8b-755777e7f804_rw_600.jpg?h=bfdf1e3bbaf0797c5de0b2a5b08272df);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic16 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf1.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/2105a423-4892-4757-b83d-de10eeeee81e_rw_1920.jpg?h=d9db327ada065ba6e9f3b2d773e42f25);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic17 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/0da9bfd4-a477-4610-96dc-45342d41293f_rw_1200.jpg?h=78d5edbf1a937627e19849dcd0e91d97);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic18 {
+  background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/19321394-e57a-43dc-9008-ea4bfbea1578_rw_1920.jpg?h=7b76bdf0a168ca31a188cc4b6729b037);
+background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+
+.covidbeforeanafter{
+   display: grid;
+   grid-template-columns: 400px 400px 400px 400px;
+  grid-template-rows: 400px 400px 400px;
+  background-color: salmon;
+  padding: 20px;
+   justify-content: center;
+  align-content: center;
+  grid-gap: 5px;
+}
+.pic19 {
+   background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf4.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/f3ac2bb4-2474-48ee-8b49-215e7f3f0671_rw_1200.jpg?h=d9f2e4d331e1646ce82c649ac0fcd0d1);
+background-size: cover;
+background-position: center;
+grid-column-start: 1;
+grid-column-end: 3;
+grid-row-start: 1;
+grid-row-end: 3;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic20 {
+   background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf3.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/4499b564-45b9-4d5e-afec-8553e350e412_rw_1920.jpg?h=debd50631ff1e078f0fac2fccf73aa62);
+background-size: cover;
+background-position: center;
+grid-column-start: 3;
+grid-column-end: 5;
+grid-row-start: 1;
+grid-row-end: 3;
+border: 2px solid white;
+  padding: 40px;
+}
+
+.covidbeforeanafter1{
+  display: grid;
+   grid-template-columns: 400px 400px 400px 400px;
+  grid-template-rows: 400px 400px 400px;
+  background-color: salmon;
+  padding: 20px;
+   justify-content: center;
+  align-content: center;
+  grid-gap: 5px;
+}
+.pic21 {
+   background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf3.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/e7051091-d5c8-4e29-9461-ce9fc59b227d_rw_1920.jpg?h=1da5ae0c945dd1b01c0bdea54e20d8cb);
+background-size: cover;
+background-position: center;
+grid-column-start: 1;
+grid-column-end: 3;
+grid-row-start: 1;
+grid-row-end: 3;
+border: 2px solid white;
+  padding: 40px;
+}
+.pic22 {
+   background-color: orange;
+background-image: url(https://pro2-bar-s3-cdn-cf2.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/d7cfb670-2144-4e44-872e-e1fe3328a3bc_rw_1920.jpg?h=f5157ab3f18699bb772aae4c857bb9ea);
+background-size: cover;
+background-position: center;
+grid-column-start: 3;
+grid-column-end: 5;
+grid-row-start: 1;
+grid-row-end: 3;
+border: 2px solid white;
+  padding: 40px;
+}
+
+.nav {
+  background-color: aliceblue;
+  overflow: hidden;
+}
+
+.nav a {
+  float: left;
+  color: palevioletred;
+  background-clip: salmon;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+.nav a:hover {
+  background-color: salmon;
+  color:white;
+}
+
+.nav a.active {
+  color: salmon
+}

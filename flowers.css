@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+.nav {
+  background-color: aliceblue;
+  overflow: hidden;
+}
+
+.nav a {
+  float: left;
+  color: palevioletred;
+  background-clip: salmon;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.nav a:hover {
+  background-color: salmon;
+  color:white;
+}
+
+.nav a.active {
+  color: salmon
+}
+
+
+h1{
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+.flowergrid {
+  display: grid;
+  grid-template-columns: 400px 400px 400px;
+  grid-template-rows: 400px 400px 400px;
+  background-color: salmon;
+  padding: 20px;
+   justify-content: center;
+  align-content: center;
+  grid-gap: 5px;
+}
+.pic1{
+  background-image: url(https://pro2-bar-s3-cdn-cf4.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/56b2f4b4-84d1-47aa-bc9a-b047a372be8a_rw_1920.jpg?h=d5818addcbbbd032426549b6e179df0d);
+  background-size: cover;
+  background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+
+.pic2{
+  background-image: url(https://pro2-bar-s3-cdn-cf3.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/ecb7285c-2cad-4149-82a1-a443bbbc07c8_rw_1920.jpg?h=a3c794862ed6a392a32f3235b5d779af);
+  background-size: cover;
+  background-position: center;
+  border: 2px solid white;
+  padding: 40px;
+
+}
+
+.pic3{
+  background-image: url(https://pro2-bar-s3-cdn-cf3.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/e045a0df-e0fb-40a5-9beb-4fc0bdcdbbe1_rw_1920.jpg?h=81bdef63ad6ede1eb850441448533d43);
+  background-size: cover;
+  background-position: center;
+  border: 2px solid white;
+  padding: 40px;
+  
+}
+
+.pic4{
+  background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/05dfac10-a03b-4ff5-b385-816db1467b39_rw_600.jpg?h=0bfe85c7351f03d8205ac278ec7d918a);
+  background-size: cover;
+background-position: center;
+border: 2px solid white;
+  padding: 40px;
+}
+
+.pic5{
+  background-image: url(https://pro2-bar-s3-cdn-cf1.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/c291cc9e-1d13-4937-ab25-cc8508d61ecc_rw_600.jpg?h=2bee1f00daff06f6afb38ae969a900b1);
+  background-size: cover;
+  background-position: center;
+  border: 2px solid white;
+  padding: 40px;
+ 
+}
+
+.pic6{
+  background-image: url(https://pro2-bar-s3-cdn-cf4.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/f4b8af21-5c58-4d4d-a0c5-d5710b0f9e45_rw_600.jpg?h=b96711fc28c5cd395a497efa1d3fccdd);
+  background-size: cover;
+  background-position: center;
+  border: 2px solid white;
+  padding: 40px;
+}
+.pic7{
+  background-image: url(https://pro2-bar-s3-cdn-cf.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/8922260a-7bd3-4997-95cb-601360daf878_rw_600.jpg?h=e4293d6985c183a8ba29a01cce79ab9a);
+  background-size: cover;
+  background-position: center;
+  border: 2px solid white;
+  padding: 40px;
+ 
+}
+.pic8{
+  background-image: url(https://pro2-bar-s3-cdn-cf6.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/05b1866a-6ba3-46ae-a49e-8ac681640241_rw_600.jpg?h=f7fbcec5c456ae8bb51183e4561c6f4a);
+  background-size: cover;
+  background-position: center;
+  border: 2px solid white;
+  padding: 40px;
+ 
+}
+.pic9{
+  background-image: url(https://pro2-bar-s3-cdn-cf2.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/374f0484-1523-4ba5-92dd-df4b520bd650_rw_600.jpg?h=2332a5c02240339b5893e18418c9538a);
+  background-size: cover;
+ background-position: center;
+ border: 2px solid white;
+  padding: 40px;
+}
+
+.flowergrid1 {
+  display: grid;
+  grid-template-columns: 400px 400px 400px;
+  grid-template-rows: 400px 400px 400px;
+  background-color: salmon;
+  padding: 20px;
+   justify-content: center;
+  align-content: center;
+  grid-gap: 5px;
+}
+ .pic10{
+    background-image: url(https://pro2-bar-s3-cdn-cf1.myportfolio.com/88ca70d0-8a5e-43b1-94a6-228ffd821aac/2f04c30d-9a77-4813-a231-054e8c1c1ec4_rw_1920.jpg?h=bb7db3206c286b1194df2cd23e7cf8d6);
+  background-size: cover;
+ background-position: center;
+ border: 2px solid white;
+  padding: 40px;
+  grid-column-start: 1;
+grid-column-end: 4;
+ }
+ .pic11{
+    background-image: url(plant.jpg);
+  background-size: cover;
+ background-position: center;
+ border: 2px solid white;
+  padding: 40px;
+  grid-column-start: 1;
+grid-column-end: 4;
+grid-row-start: 1;
+grid-row-end:3;
+ }
